@@ -26,7 +26,7 @@ Estudante apaixonada por programação desde antes de ingressar no curso de info
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Blade](https://img.shields.io/badge/Blade-777BB4?style=for-the-badge&logo=blade&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-FF007F?style=for-the-badge&logo=blade&logoColor=white)
 
 </div>
 <!-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) -->
