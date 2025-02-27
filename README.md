@@ -1,4 +1,4 @@
-# Bem vindo(a)
+# Bem vindo(a)!
   <!-- <img src="boas_vindas.png" width="30%" align = "left"> -->
 Estudante apaixonada por programação desde antes de ingressar no curso técnico em informática integrado ao ensino médio. Aventuro-me aprendendo e me desafiando.
 
