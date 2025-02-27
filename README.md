@@ -5,13 +5,13 @@ Estudante apaixonada por programação desde antes de ingressar no curso técnic
 ## Sobre Mim
 
 -  **Educação:** 4º ano do curso Técninco em Informática integrado ao Ensino Médio no IFRS - Campus Feliz
--  **Aprendendo atualmente:** Laravel, C#
 -  **Como me contatar:** sabrinahm2006@gmail.com 
 
 ## Tecnologias e Ferramentas
 
 - Linguagens: Python, Java, PHP, Javascript
 - Bancos de Dados: MySQL, SQLServer
+- Frameworks: Laravel
 
 
 ## Estatísticas do GitHub
