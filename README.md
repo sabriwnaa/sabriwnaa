@@ -5,7 +5,7 @@ Estudante apaixonada por programação desde antes de ingressar no curso de info
 ## Sobre Mim
 
 -  **Educação:** 4º ano do curso Técninco em Informática integrado ao Ensino Médio no IFRS - Campus Feliz
--  **Como me contatar:** sabrinahm2006@gmail.com 
+-  **Contato:** sabrinahm2006@gmail.com 
 
 ## Tecnologias e Ferramentas
 
