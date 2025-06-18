@@ -16,7 +16,7 @@ Estudante apaixonada por programação desde antes de ingressar no curso de info
 
 ## Estatísticas do GitHub
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabriwnaa&layout=compact&theme=radical" alt="Linguagens mais usadas">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabriwnaa&layout=compact&theme=radical">
 </p>
 <div align="center"> 
 
