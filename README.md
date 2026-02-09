@@ -1,14 +1,15 @@
 # Bem vindo(a)!
-  <!-- <img src="boas_vindas.png" width="30%" align = "left"> -->
-Estudante apaixonada por programação desde antes de ingressar no curso de informática que iniciou seus aprendizados na área de forma autodidata e segue buscando conhecimento com autonomia. Aventuro-me aprendendo e me desafiando.
+Estudante apaixonada por programação que iniciou seus aprendizados na área de forma autodidata e segue buscando conhecimento elevando o nível de seu ensino. Aventuro-me aprendendo e me desafiando.
 
 ## Sobre Mim
 
--  **Educação:** 4º ano do curso Técninco em Informática integrado ao Ensino Médio no IFRS - Campus Feliz
+-  **Educação:**
+-- Análise e Desenvolvimento de Sistemas (IFRS Campus Feliz) - Em andamento 
+-- Técninco em Informática integrado ao Ensino Médio (IFRS Campus Feliz) - Concluído 
 -  **Contato:** sabrinahm2006@gmail.com 
 
 ## Tecnologias e Ferramentas
 
-- Linguagens: Python, Java, PHP, Javascript
-- Bancos de Dados: MySQL, SQLServer
-- Frameworks: Laravel
+- **Linguagens de Programação:** Python, Java
+- **Desenvolvimento Web:** HTML, CSS, JavaScript, PHP 
+- **Banco de Dados:** SQL, MySQL, MariaDB
