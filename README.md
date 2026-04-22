@@ -4,7 +4,7 @@ Estudante apaixonada por programação que iniciou seus aprendizados na área de
 ## Sobre Mim
 
 -  **Educação:** Análise e Desenvolvimento de Sistemas (IFRS Campus Feliz) - Em andamento; Técninco em Informática integrado ao Ensino Médio (IFRS Campus Feliz) - Concluído. 
--  **Contato:** sabrinahm2006@gmail.com 
+-  **Contato:** sabrinahahnmelo@gmail.com 
 
 ## Tecnologias e Ferramentas
 
